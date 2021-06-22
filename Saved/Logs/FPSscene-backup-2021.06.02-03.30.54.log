@@ -1,0 +1,945 @@
+﻿Log file open, 06/02/21 10:40:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSscene
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.790541
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.02-02.40.10:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.02-02.40.10:970][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:970][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:975][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.02-02.40.10:975][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.02-02.40.10:976][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.02-02.40.10:976][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.02-02.40.10:976][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.02-02.40.10:983][  0]LogHAL: Display: Platform has ~ 32 GB [34125086720 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.06.02-02.40.10:984][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Scalability.ini]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.02-02.40.10:984][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.02-02.40.10:985][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.02-02.40.10:985][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.02-02.40.10:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Config/Windows/Engine.ini]
+[2021.06.02-02.40.10:985][  0]LogInit: Computer: haytamhuan-PC0
+[2021.06.02-02.40.10:985][  0]LogInit: User: haytamhuang
+[2021.06.02-02.40.10:985][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.02-02.40.10:985][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.02-02.40.10:985][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.06.02-02.40.10:985][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.02-02.40.10:985][  0]LogMemory: Process Physical Memory: 100.53 MB used, 100.53 MB peak
+[2021.06.02-02.40.10:985][  0]LogMemory: Process Virtual Memory: 92.95 MB used, 92.95 MB peak
+[2021.06.02-02.40.10:985][  0]LogMemory: Physical Memory: 11929.57 MB used,  20614.65 MB free, 32544.22 MB total
+[2021.06.02-02.40.10:985][  0]LogMemory: Virtual Memory: 4679.56 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2021.06.02-02.40.11:138][  0]LogInit: Overriding language with editor culture configuration option (en).
+[2021.06.02-02.40.11:138][  0]LogInit: Overriding locale with editor culture configuration option (en).
+[2021.06.02-02.40.11:249][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.02-02.40.11:337][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.02-02.40.11:337][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.02-02.40.11:476][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.02-02.40.11:476][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.02-02.40.11:799][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.06.02-02.40.11:799][  0]LogD3D11RHI:       8031/0/16272 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.02-02.40.12:229][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.06.02-02.40.12:229][  0]LogD3D11RHI:       128/0/16272 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.06.02-02.40.12:270][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.02-02.40.12:270][  0]LogD3D11RHI:       0/0/16272 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.02-02.40.12:270][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.02-02.40.12:279][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.02-02.40.12:279][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.02-02.40.12:279][  0]LogWindows: EnumDisplayDevices:
+[2021.06.02-02.40.12:279][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.06.02-02.40.12:280][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.06.02-02.40.12:280][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.06.02-02.40.12:280][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.06.02-02.40.12:280][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.02-02.40.12:281][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.02-02.40.12:281][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.02-02.40.12:281][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.06.02-02.40.12:281][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.06.02-02.40.12:281][  0]LogD3D11RHI:   Driver Version: 457.49 (internal:27.21.14.5749, unified:457.49)
+[2021.06.02-02.40.12:281][  0]LogD3D11RHI:      Driver Date: 11-20-2020
+[2021.06.02-02.40.12:281][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.06.02-02.40.12:330][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.02-02.40.12:332][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.06.02-02.40.12:333][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.06.02-02.40.12:333][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.06.02-02.40.12:346][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.06.02-02.40.13:109][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.06.02-02.40.13:120][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.06.02-02.40.13:132][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.06.02-02.40.13:143][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.06.02-02.40.13:154][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.06.02-02.40.13:166][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.06.02-02.40.13:177][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.02-02.40.13:189][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.06.02-02.40.13:195][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.06.02-02.40.13:257][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.06.02-02.40.13:257][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.06.02-02.40.13:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.06.02-02.40.13:260][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.06.02-02.40.13:307][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.06.02-02.40.13:307][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.06.02-02.40.13:327][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.06.02-02.40.13:327][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.06.02-02.40.13:337][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.06.02-02.40.13:348][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.02-02.40.13:360][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.06.02-02.40.13:373][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.06.02-02.40.13:409][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.06.02-02.40.13:409][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.06.02-02.40.13:409][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.02-02.40.13:427][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.02-02.40.13:564][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Intermediate/Shaders/WorkingDirectory/38680/).
+[2021.06.02-02.40.13:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/haytamhuang/AppData/Local/Temp/UnrealShaderWorkingDir/20E7DD4C4DCB179B6D83CA9BCC1D4A8B/'.
+[2021.06.02-02.40.13:566][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.06.02-02.40.13:566][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.02-02.40.13:566][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.02-02.40.13:982][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.02-02.40.14:022][  0]LogDerivedDataCache: Loaded boot cache 0.04s 74MB C:/Users/haytamhuang/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.06.02-02.40.14:022][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/haytamhuang/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.06.02-02.40.14:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.02-02.40.14:023][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.02-02.40.14:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.02-02.40.14:023][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.02-02.40.14:032][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.02-02.40.14:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.02-02.40.14:032][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.02-02.40.14:044][  0]LogDerivedDataCache: Using Local data cache path C:/Users/haytamhuang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.02-02.40.14:044][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.02-02.40.14:044][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.02-02.40.14:060][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.02-02.40.14:060][  0]LogSlate: Using FreeType 2.6.0
+[2021.06.02-02.40.14:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.02-02.40.14:142][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2021.06.02-02.40.14:396][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.02-02.40.14:647][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.02-02.40.14:647][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.02-02.40.14:647][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.02-02.40.14:647][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.02-02.40.14:647][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.02-02.40.14:655][  0]LogNetVersion: FPSscene 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3200401195)
+[2021.06.02-02.40.14:957][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032918 seconds
+[2021.06.02-02.40.14:962][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.06.02-02.40.14:962][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.06.02-02.40.14:962][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.02-02.40.15:897][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.02-02.40.15:913][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.02-02.40.16:191][  0]SourceControl: Source control is disabled
+[2021.06.02-02.40.16:191][  0]SourceControl: Source control is disabled
+[2021.06.02-02.40.16:220][  0]SourceControl: Source control is disabled
+[2021.06.02-02.40.16:224][  0]SourceControl: Source control is disabled
+[2021.06.02-02.40.16:421][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.02-02.40.16:534][  0]LogOcInput: OculusInput pre-init called
+[2021.06.02-02.40.17:228][  0]LogEngine: Initializing Engine...
+[2021.06.02-02.40.17:228][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.02-02.40.17:229][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.02-02.40.17:380][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.02-02.40.17:394][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.02-02.40.17:407][  0]LogInit: XAudio2 using 'P24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.02-02.40.17:465][  0]LogInit: FAudioDevice initialized.
+[2021.06.02-02.40.17:465][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.02-02.40.17:507][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/haytamhuang/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.06.02-02.40.17:511][  0]LogInit: Texture streaming: Enabled
+[2021.06.02-02.40.17:530][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.02-02.40.17:552][  0]LogInit: Transaction tracking system initialized
+[2021.06.02-02.40.17:584][  0]BlueprintLog: New page: Editor Load
+[2021.06.02-02.40.17:783][  0]LocalizationService: Localization service is disabled
+[2021.06.02-02.40.17:898][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.06.02-02.40.17:898][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2021.06.02-02.40.17:898][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.06.02-02.40.18:080][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Content/' took 0.01s
+[2021.06.02-02.40.18:080][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.02-02.40.18:080][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.02-02.40.18:316][  0]SourceControl: Source control is disabled
+[2021.06.02-02.40.18:316][  0]Cmd: MAP LOAD FILE="../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.02-02.40.18:316][  0]LightingResults: New page: Lighting Build
+[2021.06.02-02.40.18:318][  0]MapCheck: New page: Map Check
+[2021.06.02-02.40.18:318][  0]LightingResults: New page: Lighting Build
+[2021.06.02-02.40.18:344][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.06.02-02.40.18:416][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.06.02-02.40.18:432][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.02-02.40.18:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.06.02-02.40.18:458][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.02-02.40.18:458][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2021.06.02-02.40.18:458][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.142
+[2021.06.02-02.40.18:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-02.40.18:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-02.40.18:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-02.40.18:579][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-02.40.18:586][  0]LogCollectionManager: Loaded 0 collections in 0.001425 seconds
+[2021.06.02-02.40.18:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Collections/' took 0.01s
+[2021.06.02-02.40.18:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Content/Developers/haytamhuang/Collections/' took 0.01s
+[2021.06.02-02.40.18:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haytamhuang/Documents/Unreal Projects/FPSscene/Content/Collections/' took 0.01s
+[2021.06.02-02.40.18:633][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.06.02-02.40.18:640][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2738 classes and 661 folders.
+[2021.06.02-02.40.18:644][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.02-02.40.18:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.06.02-02.40.18:718][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.02-02.40.18:734][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.02-02.40.18:750][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.02-02.40.18:751][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.02-02.40.18:755][  0]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.02-02.40.18:805][  0]LogRenderer: Reallocating scene render targets to support 1092x572 Format 10 NumSamples 1 (Frame:1).
+[2021.06.02-02.40.18:832][  0]LogSlate: Took 0.000548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.02-02.40.18:941][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.02-02.40.18:941][  0]LogLoad: (Engine Initialization) Total time: 10.57 seconds
+[2021.06.02-02.40.18:941][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.02-02.40.18:968][  0]LogAssetRegistry: Asset discovery search completed in 4.8484 seconds
+[2021.06.02-02.40.18:969][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.06.02-02.40.18:969][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000028 seconds (updated 0 objects)
+[2021.06.02-02.40.18:970][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.02-02.40.33:594][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2021.06.02-02.40.36:212][ 34]Cmd: EDIT COPY
+[2021.06.02-02.40.36:504][ 69]Cmd: EDIT PASTE
+[2021.06.02-02.40.41:478][661]Cmd: EDIT PASTE
+[2021.06.02-02.40.45:572][147]Cmd: EDIT PASTE
+[2021.06.02-02.40.49:467][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2021.06.02-02.40.54:493][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.40.58:346][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.41.05:424][513]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2021.06.02-02.41.07:873][805]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (Cube)
+[2021.06.02-02.41.07:885][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.41.11:411][227]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2021.06.02-02.41.12:475][352]Cmd: DELETE
+[2021.06.02-02.41.12:475][352]Cmd: ACTOR DELETE
+[2021.06.02-02.41.12:484][352]LogEditorActor: Deleted 1 Components (0.009 secs)
+[2021.06.02-02.41.15:810][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.41.15:971][769]LogActorFactory: Actor Factory created Cube
+[2021.06.02-02.41.17:410][941]LogActorFactory: Actor Factory created Cube
+[2021.06.02-02.41.19:795][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.41.21:964][483]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.02-02.41.21:968][483]LogAssetEditorManager: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2021.06.02-02.41.22:334][483]LogSlate: Took 0.000794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.02-02.41.50:947][954]LogSlate: Window 'Save Asset As' being destroyed
+[2021.06.02-02.44.19:458][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.44.19:549][741]LogSlate: Window 'Cube' being destroyed
+[2021.06.02-02.44.19:553][741]LogSlate: Window 'Cube' being destroyed
+[2021.06.02-02.44.59:665][ 20]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.06.02-02.44.59:665][ 20]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2021.06.02-02.45.03:345][427]Cmd: DELETE
+[2021.06.02-02.45.03:345][427]Cmd: ACTOR DELETE
+[2021.06.02-02.45.03:347][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.02-02.45.03:371][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.06.02-02.45.03:371][427]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.06.02-02.45.19:453][355]Cmd: DELETE
+[2021.06.02-02.45.19:453][355]Cmd: ACTOR DELETE
+[2021.06.02-02.45.19:454][355]LogEditorActor: Deleted Actor: Actor
+[2021.06.02-02.45.19:478][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.06.02-02.45.19:478][355]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.06.02-02.45.22:174][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.45.24:601][969]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.02-02.45.56:733][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.45.59:557][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.46.02:107][461]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2021.06.02-02.46.09:235][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.46.18:399][409]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.06.02-02.46.44:365][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.47.20:173][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.47.34:031][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.48.56:235][581]Cmd: EDCALLBACK SURFPROPS
+[2021.06.02-02.48.56:853][651]Cmd: EDCALLBACK SURFPROPS
+[2021.06.02-02.48.58:158][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.49.05:889][724]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.06.02-02.50.22:043][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.02-02.50.32:771][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2021.06.02-02.50.44:171][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.50.50:014][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-02.50.58:741][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.51.02:052][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.02-02.51.09:296][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.51.17:644][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.51.33:539][ 31]Cmd: EDIT COPY
+[2021.06.02-02.51.33:733][ 54]Cmd: EDIT PASTE
+[2021.06.02-02.51.43:268][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.51.44:984][397]Cmd: EDIT PASTE
+[2021.06.02-02.51.50:378][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.51.59:369][114]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.06.02-02.51.59:402][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.52.00:179][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-02.52.27:169][421]Cmd: EDIT COPY
+[2021.06.02-02.52.27:490][459]Cmd: EDIT PASTE
+[2021.06.02-02.52.32:245][ 21]Cmd: EDIT PASTE
+[2021.06.02-02.52.36:162][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.52.38:422][756]Cmd: EDIT PASTE
+[2021.06.02-02.52.56:759][919]Cmd: EDIT PASTE
+[2021.06.02-02.53.10:163][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.53.34:436][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.53.35:317][471]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.02-02.53.36:969][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.54.00:146][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.54.14:482][130]Cmd: EDIT COPY
+[2021.06.02-02.54.14:676][153]Cmd: EDIT PASTE
+[2021.06.02-02.54.39:899][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.54.46:353][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2021.06.02-02.55.11:550][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.55.12:118][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.02-02.55.13:315][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-02.55.14:345][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-02.55.15:815][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube24)
+[2021.06.02-02.55.17:037][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.55.22:400][ 37]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.06.02-02.55.32:986][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.55.49:476][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.56.12:170][870]Cmd: EDIT COPY
+[2021.06.02-02.56.12:390][896]Cmd: EDIT PASTE
+[2021.06.02-02.56.42:163][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.56.55:138][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.57.16:275][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-02.57.17:377][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-02.57.21:232][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.57.21:324][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-02.57.21:331][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-02.57.21:331][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-02.57.21:331][ 38]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2021, 6:57:21 PM)
+[2021.06.02-02.57.21:343][ 38]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.06.02-02.57.21:356][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012889s)
+[2021.06.02-02.57.21:357][ 38]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.06.02-02.57.21:357][ 38]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2021.06.02-02.57.21:357][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013946s)
+[2021.06.02-02.57.21:383][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.06.02-02.57.21:389][ 38]LogInit: XAudio2 using 'P24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.02-02.57.21:398][ 38]LogInit: FAudioDevice initialized.
+[2021.06.02-02.57.21:442][ 38]LogLoad: Game class is 'GameModeBP_C'
+[2021.06.02-02.57.21:444][ 38]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.06.02-10.57.21
+[2021.06.02-02.57.21:445][ 38]LogWorld: Bringing up level for play took: 0.001444
+[2021.06.02-02.57.21:460][ 38]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.02-02.57.21:461][ 38]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:461][ 38]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:461][ 38]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.558
+[2021.06.02-02.57.21:461][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-02.57.21:461][ 38]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:485][ 39]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:494][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:502][ 41]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:510][ 42]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:518][ 43]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:527][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:535][ 45]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:545][ 46]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:552][ 47]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:561][ 48]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:568][ 49]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:577][ 50]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:585][ 51]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:594][ 52]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:602][ 53]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:610][ 54]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:619][ 55]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:627][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:636][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:644][ 58]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:652][ 59]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:661][ 60]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:669][ 61]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:677][ 62]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:686][ 63]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:694][ 64]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:702][ 65]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:710][ 66]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:718][ 67]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:727][ 68]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:735][ 69]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:743][ 70]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:752][ 71]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:760][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:769][ 73]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:777][ 74]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:786][ 75]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:795][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:802][ 77]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:812][ 78]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:819][ 79]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:828][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:835][ 81]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:844][ 82]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:852][ 83]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:860][ 84]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:869][ 85]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:877][ 86]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:885][ 87]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:894][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:902][ 89]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.21:911][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-02.57.29:994][ 60]LogTemp: Warning: ->Launch
+[2021.06.02-02.57.31:107][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-02.57.31:107][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-02.57.31:136][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-02.57.31:136][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-02.57.31:160][193]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(None)
+[2021.06.02-02.57.31:160][193]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(None)
+[2021.06.02-02.57.31:162][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-02.57.31:164][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.06.02-02.57.31:208][196]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.06.02-02.57.32:335][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-02.57.57:289][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.02-02.57.57:501][415]LogSavePackage: Moving '../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/FirstPersonExampleMap_Auto1B08DEA4F4E4178983A90A4A0CEBF6B53.tmp' to '../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.06.02-02.57.57:504][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.238
+[2021.06.02-02.57.57:504][415]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.238
+[2021.06.02-03.19.47:524][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.02-03.19.54:904][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.19.55:005][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.19.55:012][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.19.55:012][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.19.55:012][287]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2021, 7:19:55 PM)
+[2021.06.02-03.19.55:012][287]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.06.02-03.19.55:024][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012026s)
+[2021.06.02-03.19.55:025][287]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.06.02-03.19.55:025][287]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2021.06.02-03.19.55:025][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012878s)
+[2021.06.02-03.19.55:049][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.06.02-03.19.55:054][287]LogInit: XAudio2 using 'P24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.02-03.19.55:064][287]LogInit: FAudioDevice initialized.
+[2021.06.02-03.19.55:093][287]LogLoad: Game class is 'GameModeBP_C'
+[2021.06.02-03.19.55:095][287]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.06.02-11.19.55
+[2021.06.02-03.19.55:095][287]LogWorld: Bringing up level for play took: 0.001118
+[2021.06.02-03.19.55:108][287]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:108][287]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:108][287]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.896
+[2021.06.02-03.19.55:108][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.19.55:108][287]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:134][288]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:142][289]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:151][290]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:160][291]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:167][292]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:176][293]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:184][294]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:192][295]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:200][296]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:209][297]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:217][298]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:225][299]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:234][300]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:242][301]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:250][302]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:259][303]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:268][304]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:275][305]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:284][306]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:292][307]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:300][308]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:308][309]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:317][310]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:326][311]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:334][312]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:342][313]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:351][314]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:359][315]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:367][316]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:375][317]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:384][318]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:392][319]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:400][320]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:408][321]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:417][322]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:425][323]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:433][324]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:443][325]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:450][326]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:458][327]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:467][328]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:475][329]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:483][330]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:492][331]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:500][332]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:509][333]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:517][334]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:525][335]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:534][336]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:542][337]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:551][338]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:558][339]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:567][340]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:575][341]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:584][342]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:592][343]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.19.55:918][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.19.55:918][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.19.55:947][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.19.55:948][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.19.55:976][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.19.55:978][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.06.02-03.19.56:021][387]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.06.02-03.20.10:285][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.20.49:266][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.02-03.20.49:433][664]LogSavePackage: Moving '../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/FirstPersonExampleMap_Auto2700363364B1D441CA9C401AA0ABDF502.tmp' to '../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.06.02-03.20.49:436][664]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.194
+[2021.06.02-03.20.49:436][664]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2021.06.02-03.20.53:537][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.20.56:160][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.02-03.21.04:226][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.21.09:628][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.21.29:604][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.21.33:570][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.02-03.21.36:081][995]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.02-03.21.36:087][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.21.36:087][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.02-03.21.36:088][995]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2021, 7:21:36 PM)
+[2021.06.02-03.21.36:088][995]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.06.02-03.21.36:101][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012847s)
+[2021.06.02-03.21.36:101][995]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.06.02-03.21.36:101][995]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2021.06.02-03.21.36:101][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013660s)
+[2021.06.02-03.21.36:126][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.06.02-03.21.36:131][995]LogInit: XAudio2 using 'P24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.02-03.21.36:139][995]LogInit: FAudioDevice initialized.
+[2021.06.02-03.21.36:169][995]LogLoad: Game class is 'GameModeBP_C'
+[2021.06.02-03.21.36:170][995]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.06.02-11.21.36
+[2021.06.02-03.21.36:171][995]LogWorld: Bringing up level for play took: 0.001008
+[2021.06.02-03.21.36:182][995]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:182][995]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:183][995]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.179
+[2021.06.02-03.21.36:183][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.21.36:183][995]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:204][996]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:213][997]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:221][998]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:230][999]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:238][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:246][  1]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:253][  2]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:263][  3]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:270][  4]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:279][  5]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:288][  6]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:296][  7]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:304][  8]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:313][  9]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:321][ 10]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:329][ 11]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:338][ 12]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:346][ 13]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:354][ 14]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:363][ 15]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:371][ 16]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:380][ 17]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:388][ 18]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:396][ 19]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:405][ 20]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:413][ 21]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:421][ 22]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:430][ 23]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:438][ 24]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:446][ 25]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:454][ 26]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:463][ 27]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:471][ 28]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:479][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:488][ 30]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:496][ 31]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:504][ 32]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:513][ 33]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:521][ 34]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:529][ 35]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:538][ 36]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:548][ 37]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:554][ 38]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:563][ 39]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:571][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:580][ 41]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:588][ 42]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:596][ 43]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:604][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:613][ 45]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:621][ 46]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:629][ 47]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:638][ 48]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:646][ 49]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:654][ 50]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.36:663][ 51]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(FPSsceneCharacter_2)
+[2021.06.02-03.21.39:837][432]LogTemp: Warning: ->Launch
+[2021.06.02-03.21.40:521][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.21.40:521][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.21.40:551][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.02-03.21.40:551][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.06.02-03.21.40:576][513]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(None)
+[2021.06.02-03.21.40:576][513]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh1P) Actor(None)
+[2021.06.02-03.21.40:578][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.02-03.21.40:580][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.06.02-03.21.40:619][515]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.06.02-03.30.54:199][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.02-03.30.54:369][299]LogSavePackage: Moving '../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/FirstPersonExampleMap_Auto30EA906054166B609B41E47AFBDB9FE2C.tmp' to '../../../../../../Users/haytamhuang/Documents/Unreal Projects/FPSscene/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2021.06.02-03.30.54:372][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.197
+[2021.06.02-03.30.54:372][299]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
